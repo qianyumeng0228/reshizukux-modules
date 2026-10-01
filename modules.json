@@ -12,7 +12,7 @@
       "versionCode": 1,
       "author": "ReShizukuX",
       "description": "示例模块，验证在线仓库是否正常工作。开机输出一行日志。",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/reshizukux-modules@master/modules/rsx.hello-1.0.0.zip",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/reshizukux-modules@main/modules/rsx.hello-1.0.0.zip",
       "minSdk": 28,
       "requiresRoot": false,
       "usesWebUI": false,
